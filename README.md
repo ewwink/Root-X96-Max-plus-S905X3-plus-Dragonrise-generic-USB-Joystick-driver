@@ -1,5 +1,5 @@
 
-# Root Android S905X3 plus Dragonrise generic USB Joystick driver / modules
+# Root Android X96 Max Plus S905X3 and Dragonrise generic USB Joystick driver / modules
 Files needed for rooting Android S905X3 like X96 Max Plus with Android 9.0 (Pie), it also included Dragonrise Inc Generic USB Joystick drivel/module for android 8/9/10 or Linux kernel 4.x.x
 
 ## Root
