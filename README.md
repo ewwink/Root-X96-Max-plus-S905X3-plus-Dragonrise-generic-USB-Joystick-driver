@@ -18,7 +18,7 @@ The Gamepad maybe has other name but it has ID **Gamepad USB\VID_0079&PID_0006**
 The **hid-dr.ko** module above is for Android 8/9/10 and above that using Linux Kernel 4.9.x and **Vendor_0079_Product_0006.kl** is for button configuration
 
 -  copy *Vendor_0079_Product_0006.kl* to **/system/usr/keylayout/** change permission or chmod to  0644
-- copy *hid-dr.ko* to **/sytem/vendor/lib/modules/** chmod to 0755
+- copy *hid-dr.ko* to **/system/vendor/lib/modules/** chmod to 0755
 - The module need to be inserted at startup with root right, to do it automatically install **init.d scripts support** app or other method
 - here the startup script to insert the module (name it like *gamepad.sh*)
 
