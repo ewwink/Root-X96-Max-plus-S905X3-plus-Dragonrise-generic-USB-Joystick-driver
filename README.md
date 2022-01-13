@@ -15,7 +15,7 @@ The Gamepad maybe has other name but it has ID **Gamepad USB\VID_0079&PID_0006**
  - Vendor ID: 0x0079 
  - Product ID: 0x0006
 
-The **hid-dr.ko** module above is for Android 8/9/10 and above that using Linux Kernel 4.9.x and **Vendor_0079_Product_0006.kl** is for button configuration
+The **hid-dr.ko** module above is for Android 8/9/10 and above that using Linux Kernel 4.9.x ARMv7 and **Vendor_0079_Product_0006.kl** is for button configuration
 
 -  copy *Vendor_0079_Product_0006.kl* to **/system/usr/keylayout/** change permission or chmod to  0644
 - copy *hid-dr.ko* to **/system/vendor/lib/modules/** chmod to 0755
