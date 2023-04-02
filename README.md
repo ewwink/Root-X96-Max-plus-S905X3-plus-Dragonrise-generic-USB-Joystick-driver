@@ -24,4 +24,4 @@ The **hid-dr.ko** module above is for Android 8/9/10 and above that using Linux 
 
 
       #!/system/bin/sh
-      insmod /sytem/vendor/lib/modules/hid-dr.ko
+      insmod /system/vendor/lib/modules/hid-dr.ko
