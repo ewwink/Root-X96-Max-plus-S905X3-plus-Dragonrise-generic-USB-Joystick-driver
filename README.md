@@ -25,3 +25,10 @@ The **hid-dr.ko** module above is for Android 8/9/10 and above that using Linux 
 
       #!/system/bin/sh
       insmod /system/vendor/lib/modules/hid-dr.ko
+
+## Remote Bluetooth
+File dibawah adalah fix untuk tombol OK, Android 11 tinggal copy file `*.kl` ke `/vendor/usr/keylayout/`
+- Remote Bluetooth Voice Akari AX810 `Vendor_00c4_Product_7a44.kl`
+- Remote Bluetooth Voice X1 Prime (First Media) `Vendor_0416_Product_0301.kl`
+
+Android 10 yg system-nya read-only atu 0 bytes penyimpanan instal module `module-remote-x1-prime.zip` melalui magisk
