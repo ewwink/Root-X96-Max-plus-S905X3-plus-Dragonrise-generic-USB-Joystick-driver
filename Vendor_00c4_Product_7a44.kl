@@ -1,0 +1,48 @@
+key 1     BACK
+key 2     1
+key 3     2
+key 4     3
+key 5     4
+key 6     5
+key 7     6
+key 8     7
+key 9     8
+key 10    9
+key 11    0
+key 15    BACK
+key 158   BACK
+key 58    SOFT_RIGHT
+key 107   ENDCALL
+
+key 186	  BUTTON_4      # YOUTUBE
+key 187    STEM_1  		#NETFLIX
+key 61    BUTTON_5     # PLAYSTORE
+
+key 62    PROG_YELLOW
+key 63	  BUTTON_8      #PRIMEVIDEO
+key 240   ALL_APPS
+
+key 127   SEARCH
+key 217   ASSIST
+key 228   POUND
+key 227   STAR
+key 231   CALL
+
+key 28    DPAD_CENTER
+key 108   DPAD_DOWN
+key 103   DPAD_UP
+key 102   MOVE_HOME
+key 172   HOME
+key 105   DPAD_LEFT
+key 106   DPAD_RIGHT
+key 115   VOLUME_UP
+key 114   VOLUME_DOWN
+key 104   VOLUME_UP
+key 109   VOLUME_DOWN
+
+key 163   MEDIA_NEXT
+key 164   MEDIA_PLAY_PAUSE
+key 165   MEDIA_PREVIOUS
+
+key 402   CHANNEL_UP
+key 403   CHANNEL_DOWN
